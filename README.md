@@ -1,2 +1,3 @@
-# Learning
-Updating my learning's
+# maven-project
+
+Simple Maven Project
